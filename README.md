@@ -1,4 +1,4 @@
-# Mi Primer Bitcoin/ My First Bitcoin - Bitcoin Diploma
+# Bitcoin Diploma
 # Version 3.0: 
 - [English](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/4503a065e19eae5e38f018f3e8cdb5077fcba9fa/My%20First%20Bitcoin%20-%20Student%20Workbook%20(V2023)_spreads_Final_Optimizer.pdf)
 - [Spanish](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/03ac6552771bf61974d29b7d57b52920265caf2a/Spanish%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf)
