@@ -4,7 +4,7 @@
 - [Spanish](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/Spanish%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf)
 - [Korean](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/Korean%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf)
 # Version 1.0: 
-- [German](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/German%20-%20V%201.0%20-%20Bitcoin%20Diploma.pdf)
+- [German](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/German%20-%20V%201.01%20-%20Bitcoin%20Diploma.pdf)
 ## About
 
 The Bitcoin Diploma has been created by Mi Primer Bitcoin / My First Bitcoin and is made freely available to the public.
