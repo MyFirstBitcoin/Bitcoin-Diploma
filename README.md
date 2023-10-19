@@ -1,5 +1,5 @@
 # Bitcoin Diploma
-# Version 2023: 
+# 2023 Release: 
 - [English]()
 - [Spanish]()
 # Version 3.0: 
