@@ -1,4 +1,7 @@
 # Bitcoin Diploma
+# Version 2023: 
+- [English]()
+- [Spanish]()
 # Version 3.0: 
 - [English](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/English%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf)
 - [Spanish](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/Spanish%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf)
