@@ -1,3 +1,6 @@
+## ** This is the Bitcoin 2023 version, the newest BD 2024 version is here: 
+- [**Bitcoin Diploma - 2024**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024)
+  
 # Bitcoin Diploma 2023
 # 2023 Release: 
 - [English](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/MFB%202023%20Release.pdf)
