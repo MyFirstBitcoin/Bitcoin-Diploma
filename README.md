@@ -1,19 +1,11 @@
-## ** This is the Bitcoin 2023 version, the newest BD 2024 version is here: 
-- [**Bitcoin Diploma - 2024**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024)
-  
-# Bitcoin Diploma 2023
-# 2023 Release: 
-- [English](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/MFB%202023%20Release.pdf)
-- [Spanish](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/Diplomado%20en%20Bitcoin%20-%20Sept.%202023.pdf)
-# Version 3.0: 
-- [English](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/English%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf)
-- [Spanish](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/Spanish%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf)
-- [Korean](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/Korean%20-%20V%203.0%20-%20Bitcoin%20Diploma.pdf)
-# Version 1.0: 
-- [German](https://github.com/MyFirstBitcoin/Bitcoin-Diploma/blob/main/German%20-%20V%201.01%20-%20Bitcoin%20Diploma.pdf)
-## About
+# 🎓 Bitcoin-Diploma
 
-The Bitcoin Diploma has been created by Mi Primer Bitcoin / My First Bitcoin and is made freely available to the public.
+The **Bitcoin Diploma** is our flagship **10-week educational program**.  
+
+It provides a comprehensive journey through **Bitcoin’s history**, **technology**, and **real-world impact**.  
+Each year, we update and refine the curriculum to ensure it reflects the latest developments in the Bitcoin ecosystem.
+
+📚 Explore [here](https://github.com/MyFirstBitcoin/Bitcoin-Diploma) previous versions of the Bitcoin Diploma from **2023** and **2024**, or dive into the newly updated [**2025 version**](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2025) – available now.
 
 ## License
 
